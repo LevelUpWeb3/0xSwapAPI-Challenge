@@ -23,7 +23,7 @@ Let's get started! 💪
 
 Guide: Begin your journey with the guide. Here you'll find how to get started.
 
-### 2. CLONE THIS REPO AND COMPLETE THE [CHALLENGE](https://github.com/jlin27/0xSwapAPI-Challenge/blob/main/Challenge/index.ts)
+### 2. CLONE THIS REPO AND COMPLETE THE [CHALLENGE](https://github.com/LevelUpWeb3/0xSwapAPI-Challenge/blob/main/Challenge/index.ts)
 
 Assignment: Complete this challenge. Put your knowledge to the test by cloning this repo and completing this challenge by completing implementing the 4 tasks in the code.
 
